@@ -1,0 +1,30 @@
+.container_1{
+    margin: 0 auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 30px;
+}
+img{
+    width: 400px;
+}
+input{
+    text-align: center;
+    height: 45px;
+    border-radius: 30px;
+    width: 500px;
+    border: 1px solid rgba(194, 194, 194, 0.526);
+
+}
+button{
+    margin-top: 20px;
+    margin-right: 10px;
+    background-color: rgba(241, 240, 240, 0.539);
+    height: 40px;
+    width: 140px;
+    border-radius: 5px;
+    border-style: none;
+    cursor: pointer;
+}
+
